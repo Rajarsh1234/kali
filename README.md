@@ -1,0 +1,2 @@
+# kali
+all linux Code
